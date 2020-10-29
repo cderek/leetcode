@@ -1,47 +1,38 @@
-// Source : https://leetcode-cn.com/problems/3sum/
-// Author : cderek
+// Source : https://leetcode-cn.com/problems/3sum/ // Author : cderek
 // Date   : 2020-10-29
 
 /**
  * @param {number[]} nums
  * @return {number[][]}
  */
-var threeSum = function(nums) {
-  if(nums.length === 0) {
-    return []
-  }
-  if(nums.length >=3 && nums.every((num) => num === 0)) {
-    return [[0,0,0]]
-  }
-  nums.sort((a, b) => a-b)
-  let i=0, j = 1, k = nums.length -1;
-  const countArr = []
-  while(j < k) {
-    const sum = nums[i] + nums[j] + nums[k];
-    if(sum === 0) {
-      countArr.push([nums[i], nums[j], nums[k]])
-      j++
-    }
-    if(sum > 0) {
-      k--
-    }
-    if(sum < 0) {
-      j++
-    }
-    if(j >= k) {
-      i++
-      j=i+1
-      k = nums.length - 1
-    }
-  }
 
-  const obj = {}
-  for(const count of countArr) {
-    const sortNum = JSON.stringify(count.sort())
-    if(!obj[sortNum]) {
-      obj[sortNum] = true
+var threeSum = function(nums) {
+  // 最左侧值为定值，右侧所有值进行两边推进计算
+  let res = [];
+  nums.sort((a, b) => a - b);
+  let size = nums.length;
+  if (nums[0] <= 0 && nums[size - 1] >= 0) {
+    // 保证有正数负数
+    let i = 0;
+    while (i < size - 2) {
+      if (nums[i] > 0) break; // 最左侧大于0，无解
+      let first = i + 1;
+      let last = size - 1;
+      while (first < last) {
+        if (nums[i] * nums[last] > 0) break; // 三数同符号，无解
+        let sum = nums[i] + nums[first] + nums[last];
+        if (sum === 0) {
+          res.push([nums[i], nums[first], nums[last]]);
+        }
+        if (sum <= 0) {
+          // 负数过小，first右移
+          while (nums[first] === nums[++first]) {} // 重复值跳过
+        } else {
+          while (nums[last] === nums[--last]) {} // 重复值跳过
+        }
+      }
+      while (nums[i] === nums[++i]) {}
     }
   }
-  const result = Object.keys(obj).map(JSON.parse)
-  return result
+  return res;
 };
