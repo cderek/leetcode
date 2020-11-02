@@ -11,6 +11,7 @@ My LeetCode Solutions.
 | 3 | [ Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Palindrome%20Number/palindrome-number.js) | | Easy |
 | 4 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Add%20Two%20Numbers/add-two-numbers.js) | | Medium |
 | 5 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/3Sum/3Sum.js) | | Medium |
+| 6 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Roman%20to%20Integer/roman-to-integer.js) | | Easy |
 
 
 
