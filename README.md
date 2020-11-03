@@ -12,6 +12,7 @@ My LeetCode Solutions.
 | 4 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Add%20Two%20Numbers/add-two-numbers.js) | | Medium |
 | 5 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/3Sum/3Sum.js) | | Medium |
 | 6 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Roman%20to%20Integer/roman-to-integer.js) | | Easy |
+| 7 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Longest%20Common%20Prefix/longest-common-prefix.js) | | Easy |
 
 
 
