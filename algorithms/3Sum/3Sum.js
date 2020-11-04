@@ -1,4 +1,5 @@
-// Source : https://leetcode-cn.com/problems/3sum/ // Author : cderek
+// Source : https://leetcode-cn.com/problems/3sum/ 
+// Author : cderek
 // Date   : 2020-10-29
 
 /**
