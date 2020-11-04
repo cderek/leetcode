@@ -13,7 +13,7 @@ My LeetCode Solutions.
 | 5 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/3Sum/3Sum.js) | | Medium |
 | 6 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Roman%20to%20Integer/roman-to-integer.js) | | Easy |
 | 7 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Longest%20Common%20Prefix/longest-common-prefix.js) | | Easy |
-| 8 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.js) | | Easy |
+| 8 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.js) | | Easy |
 
 
 
