@@ -14,6 +14,7 @@ My LeetCode Solutions.
 | 6 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Roman%20to%20Integer/roman-to-integer.js) | | Easy |
 | 7 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Longest%20Common%20Prefix/longest-common-prefix.js) | | Easy |
 | 8 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.js) | | Easy |
+| 9 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Remove%20Element/remove-element.js) | | Easy |
 
 
 
