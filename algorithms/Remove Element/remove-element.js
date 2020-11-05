@@ -1,6 +1,6 @@
 // Source : https://leetcode-cn.com/problems/remove-element/
 // Author : cderek
-// Date   : 2019-11-05
+// Date   : 2020-11-05
 /**
  * @param {number[]} nums
  * @param {number} val
