@@ -16,7 +16,7 @@ My LeetCode Solutions.
 | 8 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.js) | | Easy |
 | 9 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Remove%20Element/remove-element.js) | | Easy |
 | 10 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Climbing%20Stairs/climbing-stairs.js) | | Easy |
-
+| 11 | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Balanced%20Binary%20Tree/balanced-binary-tree.js) | | Easy |
 
 
 
