@@ -17,6 +17,7 @@ My LeetCode Solutions.
 | 9 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Remove%20Element/remove-element.js) | | Easy |
 | 10 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Climbing%20Stairs/climbing-stairs.js) | | Easy |
 | 11 | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Balanced%20Binary%20Tree/balanced-binary-tree.js) | | Easy |
+| 12 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Add%20Binary/add-binary.js) | | Easy |
 
 
 
