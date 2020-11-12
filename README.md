@@ -18,6 +18,5 @@ My LeetCode Solutions.
 | 10 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Climbing%20Stairs/climbing-stairs.js) | | Easy |
 | 11 | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Balanced%20Binary%20Tree/balanced-binary-tree.js) | | Easy |
 | 12 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Add%20Binary/add-binary.js) | | Easy |
-
-
+| 13 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/submissions/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Maximum%20Subarray/maximum-subarray.js) | | Easy |
 
