@@ -21,4 +21,6 @@ My LeetCode Solutions.
 | 13 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/submissions/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Maximum%20Subarray/maximum-subarray.js) | | Easy |
 | 14 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Plus%20One/plus-one.js) | | Easy |
 | 15| [Happy Number](https://leetcode-cn.com/problems/happy-number/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Happy%20Number/happy-number.js) | | Easy |
-| 15| [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Island%20Perimeter/island-perimeter.js) | | Easy |
+| 16| [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Island%20Perimeter/island-perimeter.js) | | Easy |
+| 17| [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Hamming%20Distance/hamming-distance.js) | | Easy |
+
