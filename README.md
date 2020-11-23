@@ -23,4 +23,5 @@ My LeetCode Solutions.
 | 15| [Happy Number](https://leetcode-cn.com/problems/happy-number/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Happy%20Number/happy-number.js) | | Easy |
 | 16| [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Island%20Perimeter/island-perimeter.js) | | Easy |
 | 17| [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Hamming%20Distance/hamming-distance.js) | | Easy |
+| 18| [Relative Ranks](https://leetcode-cn.com/problems/relative-ranks/) | [JavaScript](https://github.com/cderek/leetcode/blob/master/algorithms/Relative%20Ranks/relative-ranks.js) | | Easy |
 
